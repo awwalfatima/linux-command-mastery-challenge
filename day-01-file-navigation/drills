@@ -1,0 +1,5 @@
+pwd
+  cd /var/log
+  cd ~
+  cd -
+  ls -lh
