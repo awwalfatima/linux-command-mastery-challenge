@@ -1,0 +1,10 @@
+pwd - prints the working directory
+ls - list files
+ls -a - list files including hiding files
+ls -l -list files with details
+ls -la - list detailed format of files including hiding files
+ls -h  - list files in details with human readable file size
+cd - change directory
+cd .. - goes up one directory
+cd - takes you back to previous directory
+cd ~ takes you to home directory
