@@ -26,3 +26,4 @@ Next day: ../day-02-file-inspection/
 Previous day: None — Day 1
 
 Next day: `../day-02-file-inspection/`
+LinkedIn link : https://www.linkedin.com/posts/awwal-fatima-muhammad-678308401_linux-cloudengineering-devops-share-7492715557960728578-14XU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGa9LbwBC3Atfoiyftubdjo_Pz_6oKxCa5E
