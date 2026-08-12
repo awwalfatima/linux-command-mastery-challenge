@@ -8,7 +8,7 @@ This 30 day Linux command mastery challenge is a hands on learning journey desig
 | --: | -------------------------------------- | ------ | ------ |
 |   1 | Linux Fundamentals & Navigation        | DONE   |Day-01..|
 |   2 | File & Directory Management            | DONE   |Day-02..|
-|   3 | File Viewing & Text Processing         |        |        |
+|   3 | File Viewing & Text Processing         | DONE   |Day-03..|
 |   4 | File Searching & Finding Data          |        |        |
 |   5 | File Permissions & Ownership           |        |        |
 |   6 | Users & Groups                         |        |        |
